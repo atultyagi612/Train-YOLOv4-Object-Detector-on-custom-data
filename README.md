@@ -1,10 +1,6 @@
 # Train-YOLOv4-Object-Detector-on-custom-data
 This repository contain python notebook that helps to train yolov4 Object detector on custom data
 
-## Demo
-
-
-#### 
 ![Project image](object_detection_using_yolov4%20on%20custom%20weights/download.png)
 
 <!-- #### Input video
