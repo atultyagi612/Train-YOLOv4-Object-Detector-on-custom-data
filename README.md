@@ -16,7 +16,7 @@ This repository contain python notebook that helps to train yolov4 Object detect
 #### [Yolov4 folder for refrence](https://drive.google.com/file/d/1AD_jvtYf063YH9kJXTqFZZEBgpmYeAl_/view?usp=sharing)
 
 
-## Output and input video using pre-trained weights
+## Output and input video using yolov4 pre-trained weights
 
 #### Input video
 
