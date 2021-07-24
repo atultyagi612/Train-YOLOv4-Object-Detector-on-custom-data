@@ -9,7 +9,7 @@ This repository contain python notebook that helps to train yolov4 Object detect
 ![Project image](object_detection_using_yolov4%20on%20custom%20weights/download.png)
 
 #### 
-![Project image](https://drive.google.com/file/d/1u658po9Ft1hfUTYlHdSBCal1PuKfJT2m/view?usp=sharing)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1u658po9Ft1hfUTYlHdSBCal1PuKfJT2m/view?usp=sharing)
 
 #### [Python notebook](https://nbviewer.jupyter.org/github/atultyagi612/Train-YOLOv4-Object-Detector-on-custom-data/blob/main/Train%20YOLOv4%20Object%20Detector%20on%20custom%20data.ipynb)
 
